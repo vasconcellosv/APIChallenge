@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  apichallengetestlinux:
+    image: apichallengetestlinux
+    build:
+      context: ./APIChallengeTestLinux
+      dockerfile: Dockerfile

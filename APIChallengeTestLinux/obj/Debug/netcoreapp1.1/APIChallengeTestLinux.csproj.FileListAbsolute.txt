@@ -1,0 +1,9 @@
+C:\Users\vinic\source\repos\APIChallengeTestLinux\APIChallengeTestLinux\bin\Debug\netcoreapp1.1\APIChallengeTestLinux.deps.json
+C:\Users\vinic\source\repos\APIChallengeTestLinux\APIChallengeTestLinux\bin\Debug\netcoreapp1.1\APIChallengeTestLinux.runtimeconfig.json
+C:\Users\vinic\source\repos\APIChallengeTestLinux\APIChallengeTestLinux\bin\Debug\netcoreapp1.1\APIChallengeTestLinux.runtimeconfig.dev.json
+C:\Users\vinic\source\repos\APIChallengeTestLinux\APIChallengeTestLinux\obj\Debug\netcoreapp1.1\APIChallengeTestLinux.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\APIChallengeTestLinux\APIChallengeTestLinux\obj\Debug\netcoreapp1.1\APIChallengeTestLinux.AssemblyInfo.cs
+C:\Users\vinic\source\repos\APIChallengeTestLinux\APIChallengeTestLinux\bin\Debug\netcoreapp1.1\APIChallengeTestLinux.dll
+C:\Users\vinic\source\repos\APIChallengeTestLinux\APIChallengeTestLinux\bin\Debug\netcoreapp1.1\APIChallengeTestLinux.pdb
+C:\Users\vinic\source\repos\APIChallengeTestLinux\APIChallengeTestLinux\obj\Debug\netcoreapp1.1\APIChallengeTestLinux.dll
+C:\Users\vinic\source\repos\APIChallengeTestLinux\APIChallengeTestLinux\obj\Debug\netcoreapp1.1\APIChallengeTestLinux.pdb

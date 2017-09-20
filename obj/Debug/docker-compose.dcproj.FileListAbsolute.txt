@@ -1,0 +1,1 @@
+C:\Users\vinic\source\repos\APIChallengeTestLinux\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
